@@ -23,7 +23,7 @@ Yes. The entire 50-year Enoch calendar dataset, lunar calculations, and guidelin
 
 If you encounter a bug, have questions regarding celestial calculations, or wish to request a feature, please reach out directly:
 
-* **Email:** support@heavenscalendar.app *(or your personal/developer email)*
+* **Email:** kingdomdeploymenttechnologies@gmail.com
 * **Response Time:** We aim to reply to all inquiries within 24–48 hours.
 
 ---
