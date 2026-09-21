@@ -1,6 +1,6 @@
 # Privacy Policy for Heaven's Calendar
 
-**Last updated:** September 18, 2026
+**Last updated:** September 21, 2026
 
 Heaven's Calendar ("we," "our," or "us") is dedicated to protecting your privacy. This Privacy Policy explains how our mobile application handles user information. 
 
@@ -32,7 +32,7 @@ Heaven's Calendar is designed as an offline-first, client-side utility. We do no
 
 * **No Advertising:** The application contains no third-party advertisements or ad-tracking SDKs.
 * **No Analytics Tracking:** We do not collect behavioral analytics, device identifiers (IDFA/GAID), or usage tracking telemetry.
-* **Weather Data (Optional):** If weather data integration is active, weather queries request standard atmospheric conditions using your coordinates without sending personal identifiers.
+* **Weather Data (Optional):** If weather data integration is active, weather queries request standard atmospheric conditions using your coordinates without sending personal identifiers. Currently weather integration is not active as of this release. 
 
 ---
 
